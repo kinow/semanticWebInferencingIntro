@@ -1,0 +1,10 @@
+# common specifications
+*.gz linguist-generated=true
+*.jar linguist-generated=true
+*.tar linguist-generated=true
+*.zip linguist-generated=true
+*.rar linguist-generated=true
+
+# specifications particular to this project
+*.png linguist-documentation
+*.txt linguist-documentation
